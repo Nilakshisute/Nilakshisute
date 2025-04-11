@@ -35,7 +35,7 @@
 
 ### ⚡ Fun fact
 - I enjoy watching sci-fi movies and exploring how futuristic tech in films inspires real-world solutions!  
-- I’m originally from maharashtra but currently in Bengaluru working on exciting projects!
+- I’m originally from maharashtra but currently in nagpur,maharashtra working on exciting projects!
 
 ---
 
