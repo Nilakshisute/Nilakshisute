@@ -28,7 +28,7 @@
 ### 📫 How to reach me
 - **Email:** nilakshisute2020@gmail.com  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nilakshi-sute-8b6577245/)  
-- **Portfolio:** [Portfolio Link](https://yourportfolio.com)
+- **Portfolio:** [Portfolio Link](https://my-portfolio-psi-mocha-90.vercel.app/)
 
 ### 😄 Pronouns
 - She
